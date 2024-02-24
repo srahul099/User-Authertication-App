@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+	<file>bg.png</file>
+	<file>human.png</file>
+	<file>logo.png</file>
+	<file>Poppins-SemiBold.ttf</file>
+	<file>Poppins-Regular.ttf</file>
+    </qresource>
+</RCC>
+
